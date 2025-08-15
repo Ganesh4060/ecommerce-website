@@ -2,22 +2,23 @@
     margin-bottom: 100px;
 }
 .slide-bg{
-    background-color: #fceae8;
+    background-color: #f4deef;
     border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
 }
 .price{
-    color: #FF136F;
+    color: #4d15d9;
 }
 .buy-now-btn{
-    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    background-image: linear-gradient(to bottom, #4825e1 0%, #8582ae 100%);
     color: #ffffff;
     padding: 7px 23px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
+    box-shadow: gray;
 }
 
 .ctg{
@@ -31,29 +32,30 @@
     width: 120px;
 }
 .category-watch{
-    background-image: linear-gradient(to bottom, #ffd558 0%, #ffac13 100%);
+    background-image: linear-gradient(to bottom, #578460e2 0%, #d9d6d1 100% );
+    
 }
 .category-bag{
-    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    background-image: linear-gradient(to bottom, #1aabe4 0%, #ff136f 100%);
 }
 .category-shoes{
-    background-image: linear-gradient(to bottom, #6658ff 0%, #1f13ff 100%);
+    background-image: linear-gradient(to bottom, #bdaaaa 0%, #c58181 100%);
 }
 
 .card{
     border: none;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px lightgray;
+    box-shadow: 5px 5px 10px rgb(221, 165, 165);
 }
 .card-footer{
-    background-color: #ffffff;
+    background-color: #f0e8e8;
 }
 
 #subscribe{
     height: 300px;
 }
 #subscribe h5{
-    color: #808080;
+    color: #e6dcdc;
 }
 .footer{
     margin-bottom: 20px !important;
